@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sentinel.Identity.Domain/1.0.0": {
+        "runtime": {
+          "Sentinel.Identity.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sentinel.Identity.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

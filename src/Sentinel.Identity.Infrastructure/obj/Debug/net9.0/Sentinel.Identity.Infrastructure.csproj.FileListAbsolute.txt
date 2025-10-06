@@ -1,0 +1,17 @@
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Infrastructure.deps.json
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Infrastructure.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Infrastructure.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Application.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Domain.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Application.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\bin\Debug\net9.0\Sentinel.Identity.Domain.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.AssemblyInfo.cs
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.1294623F.Up2Date
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\refint\Sentinel.Identity.Infrastructure.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\ref\Sentinel.Identity.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\bin\Debug\net9.0\Sentinel.Identity.Application.deps.json
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\bin\Debug\net9.0\Sentinel.Identity.Application.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\bin\Debug\net9.0\Sentinel.Identity.Application.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\bin\Debug\net9.0\Sentinel.Identity.Domain.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\bin\Debug\net9.0\Sentinel.Identity.Domain.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.csproj.AssemblyReference.cache
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.AssemblyInfoInputs.cache
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.AssemblyInfo.cs
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.csproj.CoreCompileInputs.cache
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.AA6175D4.Up2Date
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\refint\Sentinel.Identity.Application.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.pdb
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\ref\Sentinel.Identity.Application.dll
