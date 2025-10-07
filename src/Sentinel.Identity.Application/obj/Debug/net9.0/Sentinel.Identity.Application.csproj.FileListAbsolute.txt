@@ -13,3 +13,4 @@ C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Applicat
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\refint\Sentinel.Identity.Application.dll
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.pdb
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\ref\Sentinel.Identity.Application.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Application\obj\Debug\net9.0\Sentinel.Identity.Application.sourcelink.json

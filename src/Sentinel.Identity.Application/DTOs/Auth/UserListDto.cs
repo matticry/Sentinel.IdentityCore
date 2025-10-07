@@ -6,6 +6,8 @@ public record UserListDto(
     string LastName,
     string Dni,
     string Username,
+    string Phone,
+    string Address,
     string Email,
     bool EmailVerified,
     int Age,

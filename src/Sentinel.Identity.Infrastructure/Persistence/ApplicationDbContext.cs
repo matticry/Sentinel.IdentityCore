@@ -8,6 +8,7 @@ public class ApplicationDbContext : DbContext
     public DbSet<User> Users { get; set; }
     public DbSet<UserAuditUpdate> UserAuditUpdates { get; set; }
     public DbSet<UserAuditDelete> UserAuditDeletes { get; set; }
+    public DbSet<RefreshToken> RefreshTokens { get; set; }
 
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
@@ -20,5 +21,6 @@ public class ApplicationDbContext : DbContext
         
         // Aplicar todas las configuraciones del ensamblado
         modelBuilder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
+        
     }
 }

@@ -152,3 +152,9 @@ C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\obj\Debug\net9.0\Sentinel.Identity.Api.sourcelink.json
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll

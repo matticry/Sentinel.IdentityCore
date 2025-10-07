@@ -9,3 +9,4 @@ C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Domain\o
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Domain\obj\Debug\net9.0\refint\Sentinel.Identity.Domain.dll
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Domain\obj\Debug\net9.0\Sentinel.Identity.Domain.pdb
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Domain\obj\Debug\net9.0\ref\Sentinel.Identity.Domain.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Domain\obj\Debug\net9.0\Sentinel.Identity.Domain.sourcelink.json

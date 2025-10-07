@@ -67,6 +67,16 @@ public class UserRepository : IUserRepository
             await _context.SaveChangesAsync(cancellationToken);
         }
     }
+    
+    public async Task DeleteForceAsync(int id, CancellationToken cancellationToken = default)
+    {
+        var user = await GetByIdAsync(id, cancellationToken);
+        if (user != null)
+        {
+            _context.Users.Remove(user);
+            await _context.SaveChangesAsync(cancellationToken);
+        }
+    }
 
     public async Task<bool> ExistsAsync(int id, CancellationToken cancellationToken = default)
     {

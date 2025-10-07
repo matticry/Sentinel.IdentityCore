@@ -20,8 +20,7 @@ public class GetUserByIdQueryHandler : IRequestHandler<GetUserByIdQuery, ApiResp
 
     public async Task<ApiResponse<UserListDto>> Handle(GetUserByIdQuery request, CancellationToken cancellationToken)
     {
-        var user = await _repository.GetByIdAsync(request.Id, cancellationToken)
-                   ?? throw new NotFoundException($"User with ID {request.Id} not found");
+        var user = await _repository.GetByIdAsync(request.Id, cancellationToken)?? throw new NotFoundException($"User with ID {request.Id} not found");
 
         var dto = _mapper.Map<UserListDto>(user);
 

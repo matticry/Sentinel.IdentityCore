@@ -15,3 +15,4 @@ C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastr
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\refint\Sentinel.Identity.Infrastructure.dll
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.pdb
 C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\ref\Sentinel.Identity.Infrastructure.dll
+C:\Users\matticry\RiderProjects\Sentinel.Identity\src\Sentinel.Identity.Infrastructure\obj\Debug\net9.0\Sentinel.Identity.Infrastructure.sourcelink.json

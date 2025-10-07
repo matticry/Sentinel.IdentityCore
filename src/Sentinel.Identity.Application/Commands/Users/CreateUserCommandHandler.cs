@@ -4,6 +4,7 @@ using Sentinel.Identity.Application.DTOs.Auth;
 using Sentinel.Identity.Domain.Entities;
 using Sentinel.Identity.Domain.Exceptions;
 using Sentinel.Identity.Domain.Repositories;
+using Sentinel.Identity.Domain.Services;
 
 namespace Sentinel.Identity.Application.Commands.Users;
 
@@ -11,11 +12,14 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, ApiRe
 {
     private readonly IUserRepository _repository;
     private readonly IMapper _mapper;
+    private readonly IPasswordHasher _passwordHasher;
 
-    public CreateUserCommandHandler(IUserRepository repository, IMapper mapper)
+    public CreateUserCommandHandler(IUserRepository repository, IMapper mapper, IPasswordHasher passwordHasher)
     {
         _repository = repository;
         _mapper = mapper;
+        _passwordHasher = passwordHasher;
+        
     }
 
     public async Task<ApiResponse<UserListDto>> Handle(CreateUserCommand request, CancellationToken cancellationToken)
@@ -26,8 +30,9 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, ApiRe
         if (await _repository.GetByUsernameAsync(request.User.Username, cancellationToken) != null)
             throw new ValidationException("Username already exists");
 
-        if (await _repository.GetByDniAsync(request.User.Dni, cancellationToken) != null)
-            throw new ValidationException("DNI already exists");
+        if (await _repository.GetByDniAsync(request.User.Dni, cancellationToken) != null) throw new ValidationException("DNI already exists");
+        
+        var passwordHash = _passwordHasher.Hash(request.User.Password);
 
         var user = User.Create(
             request.User.Name,
@@ -35,8 +40,8 @@ public class CreateUserCommandHandler : IRequestHandler<CreateUserCommand, ApiRe
             request.User.Dni,
             request.User.Age,
             request.User.Username,
-            request.User.Email,
-            request.User.Password,
+            request.User.Email, 
+            passwordHash,
             request.User.Phone,
             request.User.Address
         );
